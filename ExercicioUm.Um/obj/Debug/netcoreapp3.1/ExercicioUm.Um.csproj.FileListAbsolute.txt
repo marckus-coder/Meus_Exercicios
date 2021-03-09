@@ -1,0 +1,13 @@
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\obj\Debug\netcoreapp3.1\ExercicioUm.Um.csprojAssemblyReference.cache
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\obj\Debug\netcoreapp3.1\ExercicioUm.Um.AssemblyInfoInputs.cache
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\obj\Debug\netcoreapp3.1\ExercicioUm.Um.AssemblyInfo.cs
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\obj\Debug\netcoreapp3.1\ExercicioUm.Um.csproj.CoreCompileInputs.cache
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\bin\Debug\netcoreapp3.1\ExercicioUm.Um.exe
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\bin\Debug\netcoreapp3.1\ExercicioUm.Um.deps.json
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\bin\Debug\netcoreapp3.1\ExercicioUm.Um.runtimeconfig.json
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\bin\Debug\netcoreapp3.1\ExercicioUm.Um.runtimeconfig.dev.json
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\bin\Debug\netcoreapp3.1\ExercicioUm.Um.dll
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\bin\Debug\netcoreapp3.1\ExercicioUm.Um.pdb
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\obj\Debug\netcoreapp3.1\ExercicioUm.Um.dll
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\obj\Debug\netcoreapp3.1\ExercicioUm.Um.pdb
+C:\Users\watan\ExercicioUm\ExercicioUm.Um\obj\Debug\netcoreapp3.1\ExercicioUm.Um.genruntimeconfig.cache
